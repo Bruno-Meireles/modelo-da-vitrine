@@ -1,17 +1,21 @@
-# Nome do meu projeto
+# Revelar seu destino
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto feito para revelar seu destino com suas perguntas
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Vou revelar seu destino**
+| :label: Tecnologias | java, html, css, 
+| :rocket: URL         | https:https://github.com/Bruno-Meireles/Maratona-explorer.git   
+| :fire: Desafio     | https:https://bruno-meireles.github.io/Maratona-explorer/
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
-## Detalhes do projeto
+     
+      
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+![maratona explorer](https://user-images.githubusercontent.com/88012503/191630472-2d8e0a99-fb71-4d09-876a-e7c81a7868e7.png) #vitrinedev
+
+## Respostas para suas perguntas
+
+Projeto que adivinha seu futuro!
+![dev](https://user-images.githubusercontent.com/88012503/191630148-65c6fedd-6352-4261-9c87-5b81e5842d29.png)
