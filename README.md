@@ -6,7 +6,7 @@ Projeto feito para revelar seu destino com suas perguntas
 | -------------  | --- |
 | :sparkles: Nome        | **Vou revelar seu destino**
 | :label: Tecnologias | java, html, css, 
-| :rocket: URL         | https:https://github.com/Bruno-Meireles/Maratona-explorer.git   
+| :rocket: URL         |https://github.com/Bruno-Meireles/modelo-da-vitrine.git
 | :fire: Desafio     | https://bruno-meireles.github.io/modelo-da-vitrine/
 
 
